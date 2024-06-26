@@ -1,7 +1,6 @@
 ## I`m web full-stack developer
 
 - 🌱 &nbsp;I’m currently learning React.js, Vue.js
-- 🎮 &nbsp;Facts: I live video games and play sports
 
 #### Languages and tools
 
