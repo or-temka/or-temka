@@ -1,7 +1,5 @@
 ## I`m web full-stack developer
 
-- 🌱 &nbsp;I’m currently learning React.js, Vue.js
-
 #### Languages and tools
 
 My main programming languages and technologies used:
